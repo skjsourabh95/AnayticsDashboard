@@ -1,0 +1,11 @@
+Variable Name,TYPE,LENGTH,LABEL
+YEAR,Numeric,4,Current Data Year
+STATE,Numeric,2,State ID
+COUNTY,Numeric,3,County ID
+AGE,Numeric,3,Age in Years
+SEX,Numeric,1,Sex
+RACE,Numeric,1,Race
+ETHNICITY,Numeric,1,Ethnicity 
+CAUSE,Numeric,6,Cause of Death
+INTENT,Numeric,1,Intent of Death
+Deaths,Numeric,8,Number of Deaths

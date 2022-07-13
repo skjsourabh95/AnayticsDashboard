@@ -1,0 +1,1 @@
+{"year": "int64", "state": "int64", "county": "int64", "age": "int64", "sex": "int64", "race": "int64", "ethnicity": "int64", "cause": "int64", "intent": "int64", "deaths": "int64"}

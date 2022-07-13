@@ -1,0 +1,80 @@
+cause,Causelbl
+208201,Unintentional Cut/pierce
+208202,Suicide Cut/pierce
+208203,Homicide Cut/pierce
+208205,Undetermined Intent Cut/pierce
+208301,Unintentional Drowning
+208302,Suicide Drowning
+208303,Homicide Drowning
+208305,Undetermined Intent Drowning
+208401,Unintentional Fall
+208402,Suicide Fall
+208403,Homicide Fall
+208405,Undetermined Intent Fall
+208601,Unintentional Fire/flame
+208602,Suicide Fire/flame
+208603,Homicide Fire/flame
+208605,Undetermined Intent Fire/flame
+208801,Unintentional Hot object/substance
+208802,Suicide Hot object/substance
+208803,Homicide Hot object/substance
+208805,Undetermined Intent Hot object/substance
+208901,Unintentional Firearm
+208902,Suicide Firearm
+208903,Homicide Firearm
+208905,Undetermined Intent Firearm
+208906,Legal Intervention Firearm
+209101,Unintentional Machinery
+209401,"Unintentional MV Traffic, Occupant"
+209501,"Unintentional MV Traffic, Motorcyclist"
+209551,"Unintentional MV Traffic, Other"
+209601,"Unintentional MV Traffic, Unspecified"
+209801,"Unintentional MV Traffic, Pedal cyclist"
+209901,"Unintentional Pedal cyclist,other"
+210101,"Unintentional MV Traffic, Pedestrian"
+210151,Unintentional Other land transport
+210201,"Unintentional Pedestrian,other"
+210301,Unintentional Other Transport
+210352,Suicide Transport
+210353,Homicide Transport
+210355,Undetermined Intent Transport
+210401,Unintentional Natural/environmental
+210601,Unintentional Overexertion
+210801,Unintentional Struck by or against
+210802,Suicide Struck by or against
+210803,Homicide Struck by or against
+210805,Undetermined Intent Struck by or against
+210806,Legal Intervention Struck by or against
+210901,Unintentional Suffocation
+210902,Suicide Suffocation
+210903,Homicide Suffocation
+210905,Undetermined Intent Suffocation
+211001,"Unintentional Other specified,classifiable"
+211002,"Suicide Other specified,classifiable"
+211003,"Homicide Other specified,classifiable"
+211005,"Undetermined Intent Other specified,classifiable"
+211006,"Legal Intervention Other specified,classifiable"
+211007,"War Other specified,classifiable"
+211101,"Unintentional Other specified,NEC"
+211102,"Suicide Other specified,NEC"
+211103,"Homicide Other specified,NEC"
+211105,"Undetermined Intent Other specified,NEC"
+211106,"Legal Intervention Other specified,NEC"
+211107,"War Other specified,NEC"
+211201,Unintentional Unspecified
+211202,Suicide Unspecified
+211203,Homicide Unspecified
+211205,Undetermined Intent Unspecified
+211206,Legal Intervention Unspecified
+211207,War Unspecified
+211400,Adverse effects - Medical care
+211500,Adverse effects - Drugs
+211701,Unintentional Drug Poisoning
+211702,Suicide Drug Poisoning
+211703,Homicide Drug Poisoning
+211705,Undetermined Intent Drug Poisoning
+211751,Unintentional Non-Drug Poisoning
+211752,Suicide Non-Drug Poisoning
+211753,Homicide Non-Drug Poisoning
+211755,Undetermined Intent Non-DrugPoisoning
+211756,Legal Intervention Non-Drug Poisoning

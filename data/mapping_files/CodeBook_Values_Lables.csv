@@ -1,0 +1,28 @@
+﻿RACE  values - Lables :,
+01,White
+02,Black
+03,Am Indian/AK Native                          
+04,Asian/Pac Islander
+,
+,
+Ethnicty  values - Lables :,
+1,Non-Hispanic
+2,Hispanic
+3,Unknown
+,
+Sex values - Lables :,
+1,Males
+2,Females
+,
+Age values - Lables :,
+0,< 1
+199,Unknown
+,
+Intent values - Lables :,
+0,Adverse Effects
+1,Unintentional                               
+2,Suicide                         
+3,Homicide                         
+5,Undetermined intent                   
+6,Legal Intervention
+7,Other Specified
